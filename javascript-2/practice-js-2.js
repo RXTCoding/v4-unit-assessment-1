@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+let gitDefinition = 'git is a terminal used to pull, push and clone files on to a repository. It is also used to assist in tracking changes to code.'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+let gitHubDefinition = 'github is online cloud storage used in case of computer crashes for back up allow multiple people to work on the same code and track changes made to that code'
 
 //////////////////PROBLEMS 3 - 9////////////////////
 /*
@@ -33,7 +33,10 @@
     following the guidelines above to describe the init command.
 */
 
-//CODE HERE
+let init= {
+    description: 'git init creates a repository',
+    code: 'git init'
+};
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +44,10 @@
     following the guidelines above to describe the clone command.
 */
 
-//CODE HERE
+let clone={
+    description: 'git clone, makes a copy of a repository',
+    code: 'git clone (url)'
+};
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -49,7 +55,10 @@
     following the guidelines above to describe the status command.
 */
 
-//CODE HERE
+let status= {
+    description: 'git status shows any changes made to the files in the repo',
+    code: 'git status'
+};
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -57,7 +66,10 @@
     following the guidelines above to describe the add command.
 */
 
-//CODE HERE
+let add= {
+    description:' git add, stages changes made in the code editor',
+    code:'git add .'
+};
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,7 +77,7 @@
     following the guidelines above to describe the commit command.
 */
 
-//CODE HERE
+
 
 //////////////////PROBLEM 8////////////////////
 /*

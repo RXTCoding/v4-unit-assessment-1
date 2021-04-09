@@ -1,0 +1,29 @@
+#sec1 {
+height: 100px;
+width: 100%;
+background-color: salmon;
+border: 2px solid black;
+display: inline-block;
+
+}
+
+#hd1{
+    margin-left: 20px;
+    display: inline-block;
+    font-size: 350%;
+}
+
+#hmButton{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#abButton {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#logButton {
+    display: inline-block;
+    margin-left: 50px;
+}
