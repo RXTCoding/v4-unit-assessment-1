@@ -1,0 +1,178 @@
+
+#aqSect{
+    height: 50px;
+    width: 100%;
+    background-color: aquamarine;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+#rectSect{
+    border: 2px dotted black;
+    height: 200px;
+    width: 100%;
+    padding: 5px;
+    
+}
+
+#purpRect{
+    border: 2px solid red;
+    height: 100px;
+    width: 180px;
+    background-color: purple;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+#smBluSq{
+    height: 90px;
+    width: 90px;
+    box-shadow: 4px 4px;
+    background-color: blue;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#bigPinkSq{
+    border: 1px solid black;
+    height: 180px;
+    width: 180px;
+    background-color: palevioletred;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#cirSect{
+    border: 2px dotted black;
+    height: 300px;
+    width: 100%;
+    padding: 5px;
+    
+}
+
+#topCirc{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid black;
+    padding-left: 17px;
+}
+
+#eye1{
+    height: 5px;
+    width: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+}
+
+#eye2{
+    height: 5px;
+    width: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+    margin-left: 2px;
+}
+
+#secCirc{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#button1{
+    height: 5px;
+    width: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#button2{
+    height: 5px;
+    width: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+#button3{
+    height: 5px;
+    width: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#bottomCirc{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#everySect{
+        border: 2px dotted black;
+        height: 300px;
+        width: 100%;
+        padding: 5px;
+        
+}
+
+#bigTanSq{
+    border: 1px solid black;
+    height: 180px;
+    width: 180px;
+    background-color:tan;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#greenCirc{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 2px solid green;
+    background-color: green;
+}
+
+#smRedSq{
+    height: 90px;
+    width: 90px;
+    background-color: red;
+    margin: 20px;
+}
+
+#sTring{
+    text-align: center;
+    padding-top: 60px;
+}
+
+#bluCircSm{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: blue;
+
+}
+
+#fish{
+    height: 19px;
+    width: 19px;
+    margin: 25px;
+}
