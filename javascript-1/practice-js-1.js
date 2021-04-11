@@ -255,6 +255,6 @@ cb(numArr[i*2])
   }
 */
 
-  function carFactory('MercedesBenz','GLASUV',2021){
+  //function carFactory(MercedesBenz,'GLASUV',2021){
 
-  }
+  //}
