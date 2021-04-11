@@ -4,6 +4,7 @@ width: 100%;
 background-color: salmon;
 border: 2px solid black;
 display: inline-block;
+padding-bottom: 30px;
 
 }
 
@@ -11,6 +12,7 @@ display: inline-block;
     margin-left: 20px;
     display: inline-block;
     font-size: 350%;
+    margin-bottom: 50px;
 }
 
 #hmButton{
@@ -26,4 +28,36 @@ display: inline-block;
 #logButton {
     display: inline-block;
     margin-left: 50px;
+}
+
+.lowerBoxes {
+    height: 255px;
+    width: 100%;
+    border: 3px dotted black;
+    margin-top: 10px;
+    
+}
+
+#htmlIMG{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    float: left;
+    padding-right: 10px;
+}
+
+#cssIMG{
+    height: 120px;
+    width: 120px;
+    margin-left: 10px;
+    float: right;
+    padding-left: 10px;
+}
+
+p{
+    margin: 5px;
+}
+
+h2{
+    margin: 5px;
 }

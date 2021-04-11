@@ -77,7 +77,10 @@ let add= {
     following the guidelines above to describe the commit command.
 */
 
-
+let commit= {
+    description:'git commit is the way to add comments to the changes made and initialize the upload',
+    code:'git commit -m " " '
+}
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -85,7 +88,10 @@ let add= {
     following the guidelines above to describe the command to add a remote location to your git repository.
 */
 
-//CODE HERE
+let addRemote= {
+    description:'git add remote is a short name you can add to a repo to reference it easily',
+    code:'git remote add origin'
+}
 
 //////////////////PROBLEM 9////////////////////
 /*
@@ -93,4 +99,7 @@ let add= {
     following the guidelines above to describe the push command.
 */
 
-//CODE HERE
+let push= {
+    description:' this command uploads the changed information and code to the cloud',
+    code:'git push, or git push origin master'
+}
